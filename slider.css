@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0 0 0 0 ;
+}
+
+.my-slider div{
+    width: 100vw;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;  
+}
+.text div{
+    width: 100vw;
+    text-align: center;
+    
+}
+h1{
+    color: rgb(18, 10, 61);   
+    padding: 25px 0 25px 0;
+    background: linear-gradient( 45deg, purple,lightgrey, lightgreen)
+}
+
